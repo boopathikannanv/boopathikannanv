@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @boopathikannanv
-
-- About Me
 Hello there! 👋 I'm Boopathi Kannan, a software developer passionate about crafting clean, efficient, and scalable solutions. With a strong foundation in both Python and Java, I enjoy diving into diverse projects, tackling challenges, and continuously learning and growing in the ever-evolving world of technology.
 
 What You'll Find Here
